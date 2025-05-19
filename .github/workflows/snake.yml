@@ -1,12 +1,9 @@
-name: GitHub Snake Game
+name: Сontributions Snake
 
 on:
   schedule:
     - cron: "0 21 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 jobs:
   generate:
     runs-on: ubuntu-latest

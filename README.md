@@ -9,7 +9,7 @@ I got into backend development intentionally. While surfing the internet, I was 
 ---
 
 ## Tech Stack
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 0;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white">
@@ -38,44 +38,55 @@ I got into backend development intentionally. While surfing the internet, I was 
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-4D4D4D?style=flat&logo=dbeaver&logoColor=white">
 </div>
-<br>
 
 ---
 
 ## My projects
-<div>
+<div style="margin: 0;">
   <a href="https://kuznetcovivan.github.io/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Check_it_out-E53935?style=flat&logo=rocket&logoColor=white&rounded=true" 
-      alt="Check it out" 
-      style="width: 150px; height: auto;"
-    />
+    <img src="https://img.shields.io/badge/Check_it_out-FF0000?style=flat&logo=github&logoColor=white" alt="My Projects" style="width: 160px;">
   </a>
 </div>
 
 ---
 
-## Сontributions 
-[![Snake workflow](https://github.com/KuznetcovIvan/KuznetcovIvan/actions/workflows/snake.yml/badge.svg)](https://github.com/KuznetcovIvan/KuznetcovIvan/actions/workflows/snake.yml)
+## Сontributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KuznetcovIvan&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KuznetcovIvan" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KuznetcovIvan" width="360" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuznetcovIvan/KuznetcovIvan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KuznetcovIvan/KuznetcovIvan/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/KuznetcovIvan/KuznetcovIvan/output/github-snake.svg" style="width: 100%; max-width: 1000px;" />
-</picture>
+<table>
+  <tr>
+    <td align="left">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KuznetcovIvan&theme=dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=KuznetcovIvan" />
+        <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KuznetcovIvan" width="300" />
+      </picture>
+    </td>
+    <td align="right">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuznetcovIvan/KuznetcovIvan/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KuznetcovIvan/KuznetcovIvan/output/github-snake.svg" />
+        <img alt="GitHub Snake" src="https://raw.githubusercontent.com/KuznetcovIvan/KuznetcovIvan/output/github-snake.svg" width="500" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Let's connect
 
-[![Email](https://img.shields.io/badge/Email-kuz_master@mail.ru-blue?style=flat&logo=gmail&logoColor=white)](mailto:kuz_master@mail.ru)
+E-mail: [kuz_master@mail.ru](kuz_master@mail.ru) <br>
+Telegram: [https://t.me/Thunder_tail](https://t.me/Thunder_tail)<br>
+LinkedIn: [linkedin.com/in/kuznetcovivan](linkedin.com/in/kuznetcovivan)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kuznetcovivan-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuznetcovivan/)
+---
 
+<small>Used GitHub Workflows:</small><br>
+<a href="https://github.com/KuznetcovIvan/KuznetcovIvan.github.io/actions/workflows/translate.yml">
+  <img src="https://github.com/KuznetcovIvan/KuznetcovIvan.github.io/actions/workflows/translate.yml/badge.svg" alt="Translate workflow" height="15" />
+</a><br>
+<a href="https://github.com/KuznetcovIvan/KuznetcovIvan/actions/workflows/snake.yml">
+  <img src="https://github.com/KuznetcovIvan/KuznetcovIvan/actions/workflows/snake.yml/badge.svg" alt="Snake workflow" height="15" />
+</a>
 
 ![header](images/Bottom.png)
