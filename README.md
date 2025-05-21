@@ -76,7 +76,7 @@ I got into backend development intentionally. While surfing the internet, I was 
 ## Let's connect
 
 E-mail: [kuz_master@mail.ru](kuz_master@mail.ru) <br>
-Telegram: [https://t.me/Thunder_tail](https://t.me/Thunder_tail)<br>
+Telegram: [https://t.me/Kuznetcov_Ivan](https://t.me/Kuznetcov_Ivan)<br>
 LinkedIn: [linkedin.com/in/kuznetcovivan](linkedin.com/in/kuznetcovivan)
 
 ---
